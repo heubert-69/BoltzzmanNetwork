@@ -1,0 +1,14 @@
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.AssemblyInfoInputs.cache
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.AssemblyInfo.cs
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.csproj.CoreCompileInputs.cache
+/home/voltsy/Projects/BoltzzmanMachine/bin/Debug/net8.0/BoltzzmanMachine
+/home/voltsy/Projects/BoltzzmanMachine/bin/Debug/net8.0/BoltzzmanMachine.deps.json
+/home/voltsy/Projects/BoltzzmanMachine/bin/Debug/net8.0/BoltzzmanMachine.runtimeconfig.json
+/home/voltsy/Projects/BoltzzmanMachine/bin/Debug/net8.0/BoltzzmanMachine.dll
+/home/voltsy/Projects/BoltzzmanMachine/bin/Debug/net8.0/BoltzzmanMachine.pdb
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.dll
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/refint/BoltzzmanMachine.dll
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.pdb
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/BoltzzmanMachine.genruntimeconfig.cache
+/home/voltsy/Projects/BoltzzmanMachine/obj/Debug/net8.0/ref/BoltzzmanMachine.dll
